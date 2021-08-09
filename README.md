@@ -1,4 +1,4 @@
-# clothes_size_prediction
+# clothes_size_prediction_multiclass_classification
 mutliclass classification task
 
 
